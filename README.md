@@ -25,3 +25,5 @@ Things you may want to cover:
 
 * Json web token
 https://jwt.io/
+
+* Rename .example_env to .env file
